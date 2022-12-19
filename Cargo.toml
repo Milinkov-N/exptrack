@@ -1,6 +1,2 @@
 [workspace]
-name = "exptrack"
-version = "0.1.0"
-edition = "2021"
-
 members = [ "tracker", "cli", "bot", "rest_api" ]
